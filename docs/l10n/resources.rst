@@ -22,11 +22,11 @@ Resources
 * `Wiktionary <http://wiktionary.org/>`_ is a wiki-based dictionary system
   available in many languages, to which anyone can contribute. You can use its
   current resources, and build your own glossaries there.
-* :doc:`Language names <languagenames>` -- how do *you* write the name of your
+* :doc\:`Language names <languagenames.rst>`_ -- how do *you* write the name of your
   language?
-* :doc:`Plural forms <pluralforms>` -- what plural forms does your language
+* :doc\:`Plural forms <pluralforms.rst>`_ -- what plural forms does your language
   use?
-* :doc:`Display settings <displaysettings>` -- what settings are necessary for
+* :doc\:`Display settings <displaysettings.rst>`_ -- what settings are necessary for
   ideal display of your language?
 * `Quotation Marks <http://www.witch.westfalen.de/csstest/quotes/quotes.html>`_
   -- what does *your* language use for quotation marks? Also how to set
